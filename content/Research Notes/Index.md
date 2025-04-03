@@ -4,7 +4,7 @@ longform:
   title: Research Notes
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
-  sceneTemplate: templates/note.md
+  scenes:
+    - Introduction
   ignoredFiles: []
 ---
